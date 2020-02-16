@@ -12,4 +12,5 @@ Changement effectués :
 
 	- getSizeMaillon ajout de return res
 	- compareWord initialisation de i à 0
-	- ajout du separateur ' (macro SEP)
+	- ajout de separateurs (macro SEP)
+	- next_word arrete le prg si char non lowercase 
